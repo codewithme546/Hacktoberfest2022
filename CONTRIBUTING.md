@@ -11,9 +11,16 @@ Star this repository
 1. Create/Upload your code in folder following the convention Add Code Here
 
 2.Choose an extact lanaguage folder drop your code
-You can follow up any languages
-Add Code Here/PYTHON/<YOUR-FILERNAME>.py
-Add Code Here/C++/<YOUR-FILERNAME>.cpp
+3.You can follow up any languages
+4.PYTHON:
+1.Sum Of Numbers
+2.Area Of Circle
+3.Swap Two Variables
+
+5.C++
+1.Check whether even or odd
+2.Find Factorial
+3.Reverse a Number
 
 # Wait for Pull Request to merge
   
